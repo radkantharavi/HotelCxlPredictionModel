@@ -10,9 +10,11 @@ AIM- Understand existing patterns around Hotel Bookings getting cancelled and bu
 
 Metadata- https://www.sciencedirect.com/science/article/pii/S2352340918315191
 
+Model Evaluation and Accuracy-
+
 	**Model Name**	         **Accuracy**	**Run time**
 	Random Forest	               0.80	      0.56
-	Artificial Neural Network	   0.77	      88.8
-	KNN	                         0.76	      617.47
-	Logistic Regression	         0.73	      7.16
+	Artificial Neural Network      0.77	      88.8
+	KNN	                       0.76	      617.47
+	Logistic Regression	       0.73	      7.16
 	Decision Tree	               0.63	      0.42
